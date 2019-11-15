@@ -1,8 +1,40 @@
 {
   "images": [
     {
-      "title": "Mein Test Bild",
-      "name": "test.png"
+      "title": "",
+      "name": "sketch_1.png"
+    },
+    {
+      "title": "",
+      "name": "sketch_2.png"
+    },
+    {
+      "title": "",
+      "name": "sketch_3.png"
+    },
+    {
+      "title": "",
+      "name": "sketch_4.png"
+    },
+    {
+      "title": "",
+      "name": "sketch_5.png"
+    },
+    {
+      "title": "",
+      "name": "sketch_6.png"
+    },
+    {
+      "title": "",
+      "name": "sketch_7.png"
+    },
+    {
+      "title": "",
+      "name": "sketch_8.png"
+    },
+    {
+      "title": "",
+      "name": "sketch_9.png"
     }
   ]
 }
